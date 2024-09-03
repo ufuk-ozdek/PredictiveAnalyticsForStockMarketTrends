@@ -21,7 +21,7 @@ To run this project locally, clone the repository and install the necessary depe
 git clone https://github.com/ufuk-ozdek/PredictiveAnalyticsForStockMarketTrends.git
 cd PredictiveAnalyticsForStockMarketTrends
 pip install -r requirements.txt
-
+```
 
 ## **Requirements**
 + Python 3.x

@@ -13,6 +13,15 @@ This project aims to build a predictive model for stock market trends using hist
 + **Evaluation:** Cross-validated RMSE, MSE, R-squared, and MAE metrics.
 + **Visualization:** Actual vs Predicted Prices, Residuals, and Feature Importance.
 
+## Installation
+
+To run this project locally, clone the repository and install the necessary dependencies:
+
+```bash
+git clone https://github.com/ufuk-ozdek/PredictiveAnalyticsForStockMarketTrends.git
+cd PredictiveAnalyticsForStockMarketTrends
+pip install -r requirements.txt
+
 
 ## **Requirements**
 + Python 3.x

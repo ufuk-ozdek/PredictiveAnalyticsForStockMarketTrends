@@ -40,6 +40,10 @@ pip install -r requirements.txt
   - R-squared: 0.9410327633319528
   - MAE: 0.01619349333426411
 
+
+
+<img src="https://github.com/user-attachments/assets/189f921f-feb6-4968-8356-961b57635ab3" alt="Actual vs Predicted Stock Prices - APPL" width="500"/>
+
 ![Actual vs Predicted Stock Prices - APPL](https://github.com/user-attachments/assets/189f921f-feb6-4968-8356-961b57635ab3)
 ![Residuals Over Time for APPL](https://github.com/user-attachments/assets/7f09141e-e7fa-4c7e-a954-6df5612906dd)
 ![SHAP Summary Plot for SVR Model Feature Importance - APPL](https://github.com/user-attachments/assets/3553b856-b387-4fc6-95ae-04920944e4cc)

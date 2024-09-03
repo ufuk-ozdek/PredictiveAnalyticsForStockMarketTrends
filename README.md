@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ![Actual vs Predicted Stock Prices - APPL](https://github.com/user-attachments/assets/189f921f-feb6-4968-8356-961b57635ab3)
 ![Residuals Over Time for APPL](https://github.com/user-attachments/assets/7f09141e-e7fa-4c7e-a954-6df5612906dd)
-![SHAP Summary Plot for SVR Model Feature Importance](https://github.com/user-attachments/assets/3553b856-b387-4fc6-95ae-04920944e4cc)
+![SHAP Summary Plot for SVR Model Feature Importance - APPL](https://github.com/user-attachments/assets/3553b856-b387-4fc6-95ae-04920944e4cc)
 
 
 - **MSFT**
@@ -50,11 +50,21 @@ pip install -r requirements.txt
   - MSE: 0.000721419433017819
   - R-squared: 0.9011299167486935
   - MAE: 0.020551217144603215
+ 
+![Actual vs Predicted Stock Prices - MSFT](https://github.com/user-attachments/assets/020741b1-976e-46d9-aab5-7800532081c9)
+![Residuals Over Time for MSFT](https://github.com/user-attachments/assets/f14458e2-bd40-4ba4-b607-c845dae96a2c)
+![SHAP Summary Plot for SVR Model Feature Importance - MSFT](https://github.com/user-attachments/assets/560918dc-dc3e-4185-96d4-14d424c69aad)
+
 - **GOOGL**
   - Cross-Validated RMSE: 0.020347820042779595
   - MSE: 0.0005246558453682764
   - R-squared: 0.9503088334942307
   - MAE: 0.018224233848984688
+  
+![Actual vs Predicted Stock Prices - GOOGL](https://github.com/user-attachments/assets/d14dc0e3-3b2b-4eff-8200-6ec3c524f374)
+![Residuals Over Time for GOOGL](https://github.com/user-attachments/assets/f14458e2-bd40-4ba4-b607-c845dae96a2c)
+![SHAP Summary Plot for SVR Model Feature Importance - GOOGL](https://github.com/user-attachments/assets/560918dc-dc3e-4185-96d4-14d424c69aad)
+
 
   
 ## Future Work

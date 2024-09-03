@@ -32,6 +32,25 @@ pip install -r requirements.txt
 + yfinance
 + shap
 
+#**Results**
+
+*AAPL
+    + Cross-Validated RMSE: 0.020787572189560993
+    + MSE: 0.00047610138101505836
+    + R-squared: 0.9410327633319528
+    + MAE: 0.01619349333426411
+*MSFT
+    + Cross-Validated RMSE: 0.02198693771508212
+    + MSE: 0.000721419433017819
+    + R-squared: 0.9011299167486935
+    + MAE: 0.020551217144603215
+*GOOGL
+    + Cross-Validated RMSE: 0.020347820042779595
+    + MSE: 0.0005246558453682764
+    + R-squared: 0.9503088334942307
+    + MAE: 0.018224233848984688
+
+  
 ## Future Work
 + Integrate additional machine learning models like LSTM.
 + Extend the project to forecast multiple stocks simultaneously.

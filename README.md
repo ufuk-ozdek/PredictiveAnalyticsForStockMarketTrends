@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## **Results**
 
-- **AAPL**
+### - **AAPL**
   - Cross-Validated RMSE: 0.020787572189560993
   - MSE: 0.00047610138101505836
   - R-squared: 0.9410327633319528
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 <img src="https://github.com/user-attachments/assets/3553b856-b387-4fc6-95ae-04920944e4cc" alt="SHAP Summary Plot for SVR Model Feature Importance - APPL" width="500"/>
 
 
-- **MSFT**
+### - **MSFT**
   - Cross-Validated RMSE: 0.02198693771508212
   - MSE: 0.000721419433017819
   - R-squared: 0.9011299167486935
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 <img src="https://github.com/user-attachments/assets/560918dc-dc3e-4185-96d4-14d424c69aad" alt="SHAP Summary Plot for SVR Model Feature Importance - MSFT" width="500"/>
 
 
-- **GOOGL**
+### - **GOOGL**
   - Cross-Validated RMSE: 0.020347820042779595
   - MSE: 0.0005246558453682764
   - R-squared: 0.9503088334942307

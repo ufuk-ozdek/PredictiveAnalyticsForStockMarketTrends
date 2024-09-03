@@ -43,10 +43,8 @@ pip install -r requirements.txt
 
 
 <img src="https://github.com/user-attachments/assets/189f921f-feb6-4968-8356-961b57635ab3" alt="Actual vs Predicted Stock Prices - APPL" width="500"/>
-
-![Actual vs Predicted Stock Prices - APPL](https://github.com/user-attachments/assets/189f921f-feb6-4968-8356-961b57635ab3)
-![Residuals Over Time for APPL](https://github.com/user-attachments/assets/7f09141e-e7fa-4c7e-a954-6df5612906dd)
-![SHAP Summary Plot for SVR Model Feature Importance - APPL](https://github.com/user-attachments/assets/3553b856-b387-4fc6-95ae-04920944e4cc)
+<img src="https://github.com/user-attachments/assets/7f09141e-e7fa-4c7e-a954-6df5612906dd" alt="Residuals Over Time - APPL" width="500"/>
+<img src="https://github.com/user-attachments/assets/3553b856-b387-4fc6-95ae-04920944e4cc" alt="SHAP Summary Plot for SVR Model Feature Importance - APPL" width="500"/>
 
 
 - **MSFT**

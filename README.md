@@ -32,7 +32,7 @@ pip install -r requirements.txt
 + yfinance
 + shap
 
-#**Results**
+## **Results**
 
 - **AAPL**
   - Cross-Validated RMSE: 0.020787572189560993

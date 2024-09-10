@@ -45,6 +45,10 @@ pip install -r requirements.txt
 
 <img src="https://github.com/user-attachments/assets/510af976-45b8-49ab-a8cc-8fde0ad0c97f" alt="Residuals Over Time - APPL" width="500"/>
 
+<img src="https://github.com/user-attachments/assets/f8bb48df-9a49-4bab-a4bf-b311b254be61" alt="Residuals Over Time - APPL" width="500"/>
+
+
+
 
 ### - **MSFT**
   - Cross-Validated RMSE: 0.02198693771508212

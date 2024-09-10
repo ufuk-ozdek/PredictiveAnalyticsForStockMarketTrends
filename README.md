@@ -55,12 +55,16 @@ pip install -r requirements.txt
   - MSE: 0.000721419433017819
   - R-squared: 0.9011299167486935
   - MAE: 0.020551217144603215
+
+
+
  
-<img src="https://github.com/user-attachments/assets/020741b1-976e-46d9-aab5-7800532081c9" alt="Actual vs Predicted Stock Prices - MSFT" width="500"/>
+<img src="https://github.com/user-attachments/assets/a35f4c88-e81a-469d-8266-d351eec3b0ad" alt="Actual vs Predicted Stock Prices - MSFT" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/f14458e2-bd40-4ba4-b607-c845dae96a2c" alt="Residuals Over Time - MSFT" width="500"/>
+<img src="https://github.com/user-attachments/assets/a92249a0-ce5d-4e58-a09a-3a709d46f424" alt="Residuals Over Time - MSFT" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/560918dc-dc3e-4185-96d4-14d424c69aad" alt="SHAP Summary Plot for SVR Model Feature Importance - MSFT" width="500"/>
+<img src="https://github.com/user-attachments/assets/4f99e02d-48dc-470e-a5aa-8ae57e6fdbe5" alt="SHAP Summary Plot for SVR Model Feature Importance - MSFT" width="500"/>
+
 
 
 ### - **GOOGL**
@@ -68,12 +72,17 @@ pip install -r requirements.txt
   - MSE: 0.0005246558453682764
   - R-squared: 0.9503088334942307
   - MAE: 0.018224233848984688
+
+
+
+
+
  
-<img src="https://github.com/user-attachments/assets/d14dc0e3-3b2b-4eff-8200-6ec3c524f374" alt="Actual vs Predicted Stock Prices - GOOGL" width="500"/>
+<img src="https://github.com/user-attachments/assets/29f822a4-3af0-4d49-8ab7-bdb3eb9c2e9c" alt="Actual vs Predicted Stock Prices - GOOGL" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/f14458e2-bd40-4ba4-b607-c845dae96a2c" alt="Residuals Over Time - GOOGL" width="500"/>
+<img src="https://github.com/user-attachments/assets/bde67290-05e1-406a-9270-6bd70c387607" alt="Residuals Over Time - GOOGL" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/560918dc-dc3e-4185-96d4-14d424c69aad" alt="SHAP Summary Plot for SVR Model Feature Importance - GOOGL" width="500"/>
+<img src="https://github.com/user-attachments/assets/5213c9aa-f7c1-4e39-8a21-762bf9f0cdc3" alt="SHAP Summary Plot for SVR Model Feature Importance - GOOGL" width="500"/>
 
 
 

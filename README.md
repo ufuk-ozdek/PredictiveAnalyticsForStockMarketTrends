@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 
 
-<img src="https://github.com/user-attachments/assets/189f921f-feb6-4968-8356-961b57635ab3" alt="Actual vs Predicted Stock Prices - APPL" width="500"/>
+<img src="[https://github.com/user-attachments/assets/189f921f-feb6-4968-8356-961b57635ab3](https://private-user-images.githubusercontent.com/70910355/366236133-4502a73a-1680-4341-888f-a1170147ba7c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwMDc0NjgsIm5iZiI6MTcyNjAwNzE2OCwicGF0aCI6Ii83MDkxMDM1NS8zNjYyMzYxMzMtNDUwMmE3M2EtMTY4MC00MzQxLTg4OGYtYTExNzAxNDdiYTdjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEwVDIyMjYwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAyNGViMWIwZjM1ZmJiYjFlZGVjOWUzMTI2NmI4N2E1NjUwNGQzNGRiMTM4ZTQ0MmRmYWY2YzczN2NiM2I4OWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.66oh3ggOcUEq0kiBcXK5hHw_HvO9aThZp5LjhUvUFJg)" alt="Actual vs Predicted Stock Prices - APPL" width="500"/>
 <img src="https://github.com/user-attachments/assets/7f09141e-e7fa-4c7e-a954-6df5612906dd" alt="Residuals Over Time - APPL" width="500"/>
 <img src="https://github.com/user-attachments/assets/3553b856-b387-4fc6-95ae-04920944e4cc" alt="SHAP Summary Plot for SVR Model Feature Importance - APPL" width="500"/>
 

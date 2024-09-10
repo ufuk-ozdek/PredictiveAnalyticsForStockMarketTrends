@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 <img src="https://github.com/user-attachments/assets/1fa2c057-382f-47d7-9bf7-28c69e60e105" alt="Residuals Over Time - APPL" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/7f09141e-e7fa-4c7e-a954-6df5612906dd" alt="Residuals Over Time - APPL" width="500"/>
+<img src="https://private-user-images.githubusercontent.com/70910355/366236168-04ada71e-a46a-49f1-92d5-c4bcb41534d6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYwMDc3NzksIm5iZiI6MTcyNjAwNzQ3OSwicGF0aCI6Ii83MDkxMDM1NS8zNjYyMzYxNjgtMDRhZGE3MWUtYTQ2YS00OWYxLTkyZDUtYzRiY2I0MTUzNGQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEwVDIyMzExOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkMWUzMTE3NzVkYzZkZWMxZjM4YzBjOWEyZTMwYjEyMzFjMmQwMDUyZjA4OTI5NzljZDg2OTEzODdhODM0MmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xYF3MCyRhIW1MV77FWBjWm23tJgpdJXhfInBZOwCEYg" alt="Residuals Over Time - APPL" width="500"/>
 <img src="https://github.com/user-attachments/assets/3553b856-b387-4fc6-95ae-04920944e4cc" alt="SHAP Summary Plot for SVR Model Feature Importance - APPL" width="500"/>
 
 

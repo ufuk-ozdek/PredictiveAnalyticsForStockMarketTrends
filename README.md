@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/142ff474-aad5-4b2b-8fa1-3e4a67099194)# **Predictive Analytics For Stock Market Trends**
+# **Predictive Analytics For Stock Market Trends**
 
 ## **Project Description**
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
   - MAE: 0.01619349333426411
 
 
-![image](https://github.com/user-attachments/assets/1fa2c057-382f-47d7-9bf7-28c69e60e105)
+![image](https://github.com/user-attachments/assets/1fa2c057-382f-47d7-9bf7-28c69e60e105 | width = 500)
 
 <img src="https://github.com/user-attachments/assets/7f09141e-e7fa-4c7e-a954-6df5612906dd" alt="Residuals Over Time - APPL" width="500"/>
 <img src="https://github.com/user-attachments/assets/3553b856-b387-4fc6-95ae-04920944e4cc" alt="SHAP Summary Plot for SVR Model Feature Importance - APPL" width="500"/>

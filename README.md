@@ -57,7 +57,9 @@ pip install -r requirements.txt
   - MAE: 0.020551217144603215
  
 <img src="https://github.com/user-attachments/assets/020741b1-976e-46d9-aab5-7800532081c9" alt="Actual vs Predicted Stock Prices - MSFT" width="500"/>
+
 <img src="https://github.com/user-attachments/assets/f14458e2-bd40-4ba4-b607-c845dae96a2c" alt="Residuals Over Time - MSFT" width="500"/>
+
 <img src="https://github.com/user-attachments/assets/560918dc-dc3e-4185-96d4-14d424c69aad" alt="SHAP Summary Plot for SVR Model Feature Importance - MSFT" width="500"/>
 
 
@@ -68,7 +70,9 @@ pip install -r requirements.txt
   - MAE: 0.018224233848984688
  
 <img src="https://github.com/user-attachments/assets/d14dc0e3-3b2b-4eff-8200-6ec3c524f374" alt="Actual vs Predicted Stock Prices - GOOGL" width="500"/>
+
 <img src="https://github.com/user-attachments/assets/f14458e2-bd40-4ba4-b607-c845dae96a2c" alt="Residuals Over Time - GOOGL" width="500"/>
+
 <img src="https://github.com/user-attachments/assets/560918dc-dc3e-4185-96d4-14d424c69aad" alt="SHAP Summary Plot for SVR Model Feature Importance - GOOGL" width="500"/>
 
 
